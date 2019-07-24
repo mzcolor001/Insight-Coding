@@ -2,7 +2,7 @@
 
 * Author: Juan Lin
 
-* Project: Insight data engineer program (Nov. session)
+* Project: Insight Coding
 
 * Language: Python 3
 
